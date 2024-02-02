@@ -1,3 +1,3 @@
-This is my first commit! Duska
+This is another commit! Duska
 
 And here we go with commit #2!
